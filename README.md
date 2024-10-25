@@ -42,3 +42,4 @@
 
 # Reflection
 - This project has refined my use of the JSON module in python
+- It has also improved my skills when dealing with file handling
